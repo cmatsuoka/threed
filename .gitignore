@@ -1,0 +1,45 @@
+# Binaries
+*.o
+*.lo
+*.so
+*.a
+*.obj
+*.exe
+*.dll
+*.pyc
+*.gco
+*.gcno
+*.gcda
+*.cov
+a.out
+core
+lib/
+
+# VC++ files
+*.suo
+*.ncb
+
+# Configuration
+config.log
+config.status
+configure
+autom4te.cache
+
+# Generated files
+depend
+libthreed.pc
+Makefile
+coverage/
+docs/threed.3
+docs/threed.html
+docs/threed.man.rst
+docs/threed.pdf
+
+# Other stuff and leftovers
+.svn
+*.orig
+*.rej
+tags
+*~
+commit-*
+*.swp
